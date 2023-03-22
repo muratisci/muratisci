@@ -1,8 +1,8 @@
 Hello World 👋
 ======================
-Game Developer
-Co-Founder @lunagames
+Game Developer <br>
+Co-Founder Luna Games
 --------------------------------
 * 🌍  I'm based in Samsun
-* 🖥️  See my blog at [murat.github.io](http://murat.github.io)
-* 🧠  I'm currently learning golang and elixir
+* 🖥️  My personal website is muratisci.com.tr
+* 🧠  I'm currently working for hypercasual game environment
